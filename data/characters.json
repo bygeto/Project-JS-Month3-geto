@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Naruto",
+    "age": 17,
+    "photo": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWluYWExcHd3dnl6djVtZjF0NzcyMHBucXBkd3F1am4wZDBrc3ltaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EETZoyWldXgJ2/giphy.gif"
+  },
+  {
+    "name": "Sasuke",
+    "age": 17,
+    "photo": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGdnaW41M216eHoxbmhvbzdsZ2hmdjBlZDE2aDZ6dzdkaXhpamdsOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13isJ0YVJbQF2M/giphy.gif"
+  },
+  {
+    "name": "Kakashi",
+    "age": 30,
+    "photo": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTEydGxhNXd6MG9qeTE3eGl2Z2wxMzMwdDNxbzQyaHhnYWxsajhtNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NvONRxCxKRPpe/giphy.gif"
+  }
+]

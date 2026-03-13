@@ -93,3 +93,43 @@ resetBtn.onclick = () => {
   time = 0;
   secondsBlock.innerText = time;
 };
+
+// DZ-4
+
+const request = new XMLHttpRequest();
+
+request.open("GET", "../data/characters.json");
+
+request.send();
+
+request.onload = () => {
+  if (request.status === 200) {
+    const data = JSON.parse(request.response);
+
+    const container = document.querySelector(".characters-list");
+
+    data.forEach((character) => {
+      const card = document.createElement("div");
+      card.className = "character-card";
+
+      card.innerHTML = `
+        <img src="${character.photo}" alt="${character.name}">
+        <h3>${character.name}</h3>
+        <p>Age: ${character.age}</p>
+      `;
+
+      container.append(card);
+    });
+  }
+};
+
+const requestAny = new XMLHttpRequest();
+
+requestAny.open("GET", "../data/info.json");
+
+requestAny.send();
+
+requestAny.onload = () => {
+  const data = JSON.parse(requestAny.response);
+  console.log(data);
+};
