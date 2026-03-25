@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Абу Бакр ас-Сиддик",
+    "img": "../assets/abu-bakr.png"
+  },
+  {
+    "name": "Умар ибн аль-Хаттаб",
+    "img": "https://i.imgur.com/2.jpg"
+  },
+  {
+    "name": "Усман ибн Аффан",
+    "img": "https://i.imgur.com/3.jpg"
+  },
+  {
+    "name": "Али ибн Абу Талиб",
+    "img": "https://i.imgur.com/4.jpg"
+  },
+  {
+    "name": "Тальха ибн Убайдуллах",
+    "img": "https://i.imgur.com/5.jpg"
+  },
+  {
+    "name": "Аз-Зубайр ибн аль-Аввам",
+    "img": "https://i.imgur.com/6.jpg"
+  },
+  {
+    "name": "Абдуррахман ибн Ауф",
+    "img": "https://i.imgur.com/7.jpg"
+  },
+  {
+    "name": "Саад ибн Аби Ваккас",
+    "img": "https://i.imgur.com/8.jpg"
+  },
+  {
+    "name": "Саид ибн Зайд",
+    "img": "https://i.imgur.com/9.jpg"
+  },
+  {
+    "name": "Абу Убайда ибн аль-Джаррах",
+    "img": "https://i.imgur.com/10.jpg"
+  }
+]
